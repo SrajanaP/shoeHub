@@ -172,12 +172,12 @@ p#bld{
         margin-top: 15px;
         margin-right: 2px;
         font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: 9px;
+        font-size: 10px;
         font-weight: 600;
         
     }
     nav a:hover{
-    font-size: 11px;
+    font-size: 12px;
     transition: 0.5s;
  }
 .outer{
