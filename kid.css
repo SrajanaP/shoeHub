@@ -41,6 +41,8 @@ nav a{
     margin-left: 7%; 
     justify-content:center;
     align-items:center;
+    align-content: center;
+    
 }
 .outer{
     margin-top: 40px ;
