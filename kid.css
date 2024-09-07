@@ -39,6 +39,8 @@ nav a{
     display: flex;
     flex-wrap: wrap;
     margin-left: 7%; 
+    justify-content:center;
+    align-items:center;
 }
 .outer{
     margin-top: 40px ;
