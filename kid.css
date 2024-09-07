@@ -93,6 +93,11 @@ p#bld{
         
     }
 
+    nav a:hover{
+    font-size: 16px;
+    transition: 0.5s;
+ }
+
 }
 
 @media(max-width:275px){
@@ -109,7 +114,10 @@ p#bld{
         font-weight: 600;
         
     }
-
+    nav a:hover{
+    font-size: 5px;
+    transition: 0.5s;
+ }
 }
 
 @media(max-width:400px){
@@ -144,7 +152,10 @@ p#bld{
         font-weight: 500;
         
     }
-
+    nav a:hover{
+    font-size: 16px;
+    transition: 0.5s;
+ }
 }
 
 @media(max-width:450px){
@@ -161,5 +172,9 @@ p#bld{
         font-weight: 600;
         
     }
+    nav a:hover{
+    font-size: 9px;
+    transition: 0.5s;
+ }
 
 }
