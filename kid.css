@@ -180,5 +180,7 @@ p#bld{
     font-size: 11px;
     transition: 0.5s;
  }
+.outer{
+    width:60%;
 
 }
