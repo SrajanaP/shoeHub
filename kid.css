@@ -81,6 +81,9 @@ p#bld{
     }
     
 }
+.info{
+    padding:1px;
+}
 
 /* @media(max-width:684px){
     nav a{
