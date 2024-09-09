@@ -82,7 +82,7 @@ p#bld{
     
 }
 .info{
-    padding:2px;
+    padding:0 0 3px 2px;
 }
 
 /* @media(max-width:684px){
