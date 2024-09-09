@@ -50,6 +50,7 @@ nav a{
     height: 300px;
     /* border: 1px solid black; */
     background-color: rgba(239, 239, 244, 0.741);
+    padding-bottom:3px;
 }
 .images{
     width: 100%;
@@ -82,7 +83,7 @@ p#bld{
     
 }
 .info{
-    padding:0 0 3px 2px;
+    padding:2px;
 }
 
 /* @media(max-width:684px){
